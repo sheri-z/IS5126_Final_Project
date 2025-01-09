@@ -69,7 +69,7 @@ This project addresses challenges in the second-hand car market in Singapore, wh
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/sheri-z/IS5126_Final_Project.git
    cd your-repository
    ```
 2. Install dependencies:
